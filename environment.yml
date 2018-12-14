@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - pandas
   - ipywidgets
-#   - IPython.display
-#   - datetime
-#   - os
+  - pip:
+    - IPython.display
+    - datetime
+    - os
