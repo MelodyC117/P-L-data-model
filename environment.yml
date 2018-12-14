@@ -1,0 +1,10 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - ipywidgets
+  - IPython.displa
+  - datetime
+  - os
