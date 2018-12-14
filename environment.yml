@@ -6,5 +6,4 @@ dependencies:
   - pandas
   - ipywidgets
   - ipython
-  - pip:
-    - datetime-4.3
+  - datetime
