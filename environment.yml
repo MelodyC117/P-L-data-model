@@ -7,3 +7,4 @@ dependencies:
   - ipywidgets
   - ipython
   - openpyxl
+  - tkinter
